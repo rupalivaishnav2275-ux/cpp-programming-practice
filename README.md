@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+My+C+++Programming+Journey!;Solving+Problems+Daily+🚀;Building+Logic+Step+by+Step+💡">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+My+CPP+Programming+Journey!;Solving+Problems+Daily+🚀;Building+Logic+Step+by+Step+💡">
 </p>
 
 ---
