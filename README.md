@@ -128,9 +128,11 @@ I am consistently solving problems and improving my **problem-solving skills**.
 ## ─── 📁 Folder Structure ───
 
 ```bash
-  cpp-programming-practice/
- ├── 01-hello-world.c
- └── README.md
+cpp-programming-practice
+├── 01-hello-world.cpp
+├── projects
+│     └── 01-basic-calculator.cpp
+└── README.md
 ```
 
 ---
@@ -149,7 +151,10 @@ I am consistently solving problems and improving my **problem-solving skills**.
 
 ## ─── 🔗 Source Code Links ───
 
+-- 📂 Programs:
 - 🔹 [01-hello-world.cpp](./01-hello-world.cpp)
+-- 🧮 Projects:
+- 🔹 Basic Calculator [01-basic-calculator.cpp](./01-basic-calculator.cpp)
 
 ---
 <img src="https://user-images.githubusercontent.com/74038190/212284100-6d0f0d6e-1b0c-4c63-9c69-61e3c6c6a5d3.gif"/>
