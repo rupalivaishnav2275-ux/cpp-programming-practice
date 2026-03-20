@@ -47,7 +47,7 @@ I am consistently solving problems and improving my **problem-solving skills**.
 
 ##  ─── 📊 Progress Tracker ───
 
-![Progress](https://img.shields.io/badge/Progress-1%25-blue?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-5%25-blue?style=for-the-badge)
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=80&section=header"/>
 
@@ -155,7 +155,7 @@ cpp-programming-practice
 - 🔹 [01-hello-world.cpp](./01-hello-world.cpp)
   
 -- 🧮 Projects:
-- 🔹 Basic Calculator [01-basic-calculator.cpp](./01-basic-calculator.cpp)
+- 🔹 Basic Calculator [01-basic-calculator.cpp](projects/01-basic-calculator.cpp)
 
 ---
 <img src="https://user-images.githubusercontent.com/74038190/212284100-6d0f0d6e-1b0c-4c63-9c69-61e3c6c6a5d3.gif"/>
