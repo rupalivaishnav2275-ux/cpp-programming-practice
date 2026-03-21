@@ -49,16 +49,22 @@ int main() {
 }
 
 
-🧪 Example Output
+## 🧪 Example Output
     Hello World
 
-📌 Explanation
+## 📌 Explanation
 - main() is the entry point
 - Output function displays text on screen
 - Execution is sequential
 
-⚠️ Common Mistakes
+## ⚠️ Common Mistakes
 - Missing ;
 - Forgetting #include
 - Typo in function names
+
+## 🧩 Key Takeaways
+
+- Flowchart helps visualize program flow  
+- Pseudocode simplifies logic  
+- Code implements the logic  
 
